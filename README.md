@@ -1,6 +1,6 @@
 # Hello, I'm Joao Vitor dos Santos!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaostosan&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?joaostosan=anuraghazra&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostosan&layout=compact&theme=radical)
+![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostosan&layout=compact&theme=github_dark)
 
