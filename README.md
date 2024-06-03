@@ -1,13 +1,13 @@
 # Hello, I'm Joao Vitor dos Santos!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaostosan&show_icons=true&theme=holi)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostosan&layout=compact&theme=holi)
 
-# Technologies that I know
+## Technologies I like to use
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=white&labelColor=orange&color=gray)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=white&labelColor=blue&color=gray)
+![JS](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white&labelColor=yellow&color=gray)
+![TS](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=white&labelColor=blue&color=gray)
+![REACT](https://img.shields.io/badge/React-black?style=flat&logo=react&labelColor=black&color=gray)
+![NEXT](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&labelColor=black&color=gray)
