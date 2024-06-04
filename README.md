@@ -1,6 +1,10 @@
-# Hello, I'm Joao Vitor dos Santos!
+# Hello!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostosan&layout=compact&theme=holi)
+My name's Joao Vitor dos Santos and I'm an aspiring developer. I have been working in the IT area for over 6 years and have always sought
+improve my skills.
+                
+During these years, my interest in programming began in college, and since then,
+I have dedicated myself to self-improvement to refine my knowledge.
 
 ## Technologies achieved
 
