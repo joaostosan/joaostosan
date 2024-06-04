@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaostosan&layout=compact&theme=holi)
 
-## Technologies I like to use
+## Technologies achieved
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5&logoColor=white&labelColor=orange&color=gray)
