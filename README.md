@@ -10,4 +10,4 @@
 ![JS](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white&labelColor=yellow&color=gray)
 ![TS](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&logoColor=white&labelColor=blue&color=gray)
 ![REACT](https://img.shields.io/badge/React-black?style=flat&logo=react&labelColor=black&color=gray)
-![NEXT](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&labelColor=white&color=gray)
+![NEXT](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=black&labelColor=white&color=gray)
